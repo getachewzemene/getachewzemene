@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @getachewzemene
 - 👀 I’m interested in ...Flutter,Javascript,NodeJs,Python and React
-- 🌱 I’m currently learning ...Django
+- 🌱 I’m currently learning ...PyQt6
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...getchze1221@gmail.com
 
