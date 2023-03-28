@@ -2,7 +2,7 @@
 
 <h3> About me: </h3>
 
-I'm Getachew Zemene, a Software Engineer, Web and Mobile Application developer. I have been studying and working in the field since 2017 G.C, starting with HTML and CSS and continuing through my BSc in Software Engineering at Bahirdar University,2022 G.C and now I'm a front-end developer at https://www.tern.systems/. I have worked as Flutter developer at ELDA Software.
+I'm Getachew Zemene, a Software Engineer, Web and Mobile Application developer. I have been studying and working in the field since 2017 G.C, starting with HTML and CSS and continuing through my BSc in Software Engineering at Bahirdar University,2022 G.C and now I'm a front-end developer at https://www.tern.systems/. I had worked as Flutter developer at ELDA Software.
 
 
 **Frameworks I am confortable in:**
