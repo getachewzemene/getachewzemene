@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hi!+It's+Getachew Zemene!;Web ...;and+Mobile app developer+🇪🇹)]
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=1218E9&background=271BC300&vCenter=true&width=446&lines=%E2%9C%8D+Hey+%3A)+I'm+Getachew+Zemene%2C;%E2%9C%8D+Web+and+Mobile+App.+Developer." alt="Typing SVG" /></a>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:getchze1221@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/getachew-zemene-ba4457237/)
 
