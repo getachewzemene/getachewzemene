@@ -5,7 +5,7 @@
 I'm Getachew Zemene, a Software Engineer, Web and Mobile Application developer. I have been studying and working in the field since 2017 G.C, starting with HTML and CSS and continuing through my BSc in Software Engineering at Bahirdar University,2022 G.C and now I'm a front-end developer at https://www.tern.systems/. I have worked as Flutter developer at ELDA Software.
 
 
-Frameworks I am confortable in
+**Frameworks I am confortable in:**
 
 React JS        ███████████████████████▓░  
 Flutter      █████████████████████▓░░░  
@@ -14,7 +14,7 @@ Django        ███████████████▓░░░░░░
 
 
 
-**Languages I have used**
+**Languages I have used:**
 
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
@@ -35,7 +35,7 @@ Django        ███████████████▓░░░░░░
 
 
 
-<h3> 📫 How to reach me </h3>
+<h3> 📫 How to reach me: </h3>
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:getchze1221@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/getachew-zemene-ba4457237/)
 <!---
