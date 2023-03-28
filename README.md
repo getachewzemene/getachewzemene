@@ -34,8 +34,9 @@ Django        ███████████████▓░░░░░░
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
 
-on ...
-- 📫 How to reach me 
+
+<h3> 📫 How to reach me </h3>
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:getchze1221@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/getachew-zemene-ba4457237/)
 <!---
 getachewzemene/getachewzemene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
