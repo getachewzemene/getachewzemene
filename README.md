@@ -5,15 +5,6 @@
 I'm Getachew Zemene, a Software Engineer, Web and Mobile Application developer. I have been studying and working in the field since 2017 G.C, starting with HTML and CSS and continuing through my BSc in Software Engineering at Bahirdar University,2022 G.C and now I'm a front-end developer at https://www.tern.systems/. I had worked as Flutter developer at ELDA Software.
 
 
-**Frameworks I am confortable in:**
-
-React JS        ███████████████████████▓░  
-Flutter      █████████████████████▓░░░  
-Express JS      ███████████████▓░░░░░░░░░  
-Django        ███████████████▓░░░░░░░░░  
-
-
-
 **Languages I have used:**
 
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
@@ -33,7 +24,14 @@ Django        ███████████████▓░░░░░░
 ![Docker](https://img.shields.io/badge/-Docker-000000?style=flat&logo=Docker)
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
+### ⚙️ &nbsp;GitHub Analytics
 
+<p align="center">
+<a href="https://github.com/getachewzemene/getachewzemene">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=getachewzemene&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=getachewzemene&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
 <h3> 📫 How to reach me: </h3>
 
