@@ -1,15 +1,17 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=1218E9&background=271BC300&vCenter=true&width=446&lines=%E2%9C%8D+Hey+%3A)+I'm+Getachew+Zemene%2C;%E2%9C%8D+Web+and+Mobile+App.+Developer." alt="Typing SVG" /></a>
 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:getchze1221@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/getachew-zemene-ba4457237/)
+<h3> About: </h3>
 
-<!-- ```text
+I'm Getachew Zemene, a Software Engineer, Web and Mobile Application developer. I have been studying and working in the field since 2017 G.C, starting with HTML and CSS and continuing through my BSc in Software Engineering at Bahirdar University,2022 G.C and now I'm a front-end developer at https://www.tern.systems/. I have worked as Flutter developer at ELDA Software.
+
+
 Frameworks I am confortable in
 
 React JS        ███████████████████████▓░  
 Flutter      █████████████████████▓░░░  
 Express JS      ███████████████▓░░░░░░░░░  
 Django        ███████████████▓░░░░░░░░░  
-``` -->
+
 
 
 **Languages I have used**
@@ -32,12 +34,9 @@ Django        ███████████████▓░░░░░░
 ![Linux](https://img.shields.io/badge/-Linux-000000?style=flat&logo=linux&logoColor=FCC624)
 
 
-
-I'm Getachew Zemene, a Software Engineer, Web and Mobile Application developer. I have been studying and working in the field since 2017 G.C, starting with HTML and CSS and continuing through my BSc in Software Engineering at Bahirdar University,2022 G.C and now I'm a front-end developer at https://www.tern.systems/. I have worked as Flutter developer at ELDA Software.
-
 on ...
-- 📫 How to reach me ...getchze1221@gmail.com
-
+- 📫 How to reach me 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shuklaraghav321.com)](mailto:getchze1221@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/getachew-zemene-ba4457237/)
 <!---
 getachewzemene/getachewzemene is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
