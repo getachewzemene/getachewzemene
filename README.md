@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=3000&pause=1000&color=1218E9&background=271BC300&vCenter=true&width=446&lines=%E2%9C%8D+Hey+%3A)+I'm+Getachew+Zemene%2C;%E2%9C%8D+Web+and+Mobile+App.+Developer." alt="Typing SVG" /></a>
 
-<h3> About: </h3>
+<h3> About me: </h3>
 
 I'm Getachew Zemene, a Software Engineer, Web and Mobile Application developer. I have been studying and working in the field since 2017 G.C, starting with HTML and CSS and continuing through my BSc in Software Engineering at Bahirdar University,2022 G.C and now I'm a front-end developer at https://www.tern.systems/. I have worked as Flutter developer at ELDA Software.
 
